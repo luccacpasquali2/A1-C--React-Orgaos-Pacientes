@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a+hVGjGwSIz6EIW00Mo0iv/8wrmDw2D610kz2VNkAUPW8LnUViLDCfwuEnOZImV3t3I7+1T7+49NFvrv0YmpTw==",
+  "dgSpecHash": "VhAxvqYH0ktvGBkQQcL12ySjchjT7lbD0+WvA0hmVJtIgGjCimWqe1UJWnsJtuNSOVx8drbxariRQEPvkwbk1w==",
   "success": true,
-  "projectFilePath": "D:\\.1.1\\ADS UP\\api\\projetoC#V1\\projeto\\projeto.csproj",
+  "projectFilePath": "D:\\.1.1\\rep\\A1-C--React-Orgaos-Pacientes\\projetoC#V1\\projeto\\projeto.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lucca\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Lucca\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.1.1\\ADS UP\\api\\projetoC#V1\\projeto\\projeto.csproj": {}
+    "D:\\.1.1\\rep\\A1-C--React-Orgaos-Pacientes\\projetoC#V1\\projeto\\projeto.csproj": {}
   },
   "projects": {
-    "D:\\.1.1\\ADS UP\\api\\projetoC#V1\\projeto\\projeto.csproj": {
+    "D:\\.1.1\\rep\\A1-C--React-Orgaos-Pacientes\\projetoC#V1\\projeto\\projeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.1.1\\ADS UP\\api\\projetoC#V1\\projeto\\projeto.csproj",
+        "projectUniqueName": "D:\\.1.1\\rep\\A1-C--React-Orgaos-Pacientes\\projetoC#V1\\projeto\\projeto.csproj",
         "projectName": "projeto",
-        "projectPath": "D:\\.1.1\\ADS UP\\api\\projetoC#V1\\projeto\\projeto.csproj",
+        "projectPath": "D:\\.1.1\\rep\\A1-C--React-Orgaos-Pacientes\\projetoC#V1\\projeto\\projeto.csproj",
         "packagesPath": "C:\\Users\\Lucca\\.nuget\\packages\\",
-        "outputPath": "D:\\.1.1\\ADS UP\\api\\projetoC#V1\\projeto\\obj\\",
+        "outputPath": "D:\\.1.1\\rep\\A1-C--React-Orgaos-Pacientes\\projetoC#V1\\projeto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lucca\\AppData\\Roaming\\NuGet\\NuGet.Config",
